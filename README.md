@@ -35,12 +35,12 @@
 
 ### CRC Kort
 
-| Bygning Handler                 |                        |
-|---------------------------------|------------------------|
-| **Ansvarsområde**               | **Samarbejdspartnere** |
-| Lave en oversigt over bygninger | Bygning                |
-| Tilføj Bygning                  |                        |
-| Fjern Bygning                   |                        |
+| Bygning Handler                                              |                        |
+|--------------------------------------------------------------|------------------------|
+| **Ansvarsområde**                                            | **Samarbejdspartnere** |
+| Lave en oversigt over bygninger                              | Bygning                |
+| Tilføj Bygning                                               |                        |
+| Fjern Bygning                                                |                        |
 
 | Bygning                                                      |                        |
 |--------------------------------------------------------------|------------------------|
