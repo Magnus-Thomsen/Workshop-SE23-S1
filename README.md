@@ -32,6 +32,43 @@
 |           | currency   |
 |           | durability |
 |           | ticks      |
+
 ### CRC Kort
+
+| Bygning Handler                 |                        |
+|---------------------------------|------------------------|
+| **Ansvarsområde**               | **Samarbejdspartnere** |
+| Lave en oversigt over bygninger | Bygning                |
+| Tilføj Bygning                  |                        |
+| Fjern Bygning                   |                        |
+
+| Bygning                                                      |                        |
+|--------------------------------------------------------------|------------------------|
+| **Ansvarsområde**                                            | **Samarbejdspartnere** |
+| Holde styr på hvilket sensorer der er tilknyttet bygningen   | Sensor                 |
+| Holde styr på hvilket aktuatorer der er tilknyttet bygningen | Aktuator               |
+| Tilføj sensorer og aktuatorer til bygning                    |                        |
+| Fjern sensorer og aktuatorer fra bygning                     |                        |
+
+| Sensor              |                        |
+|---------------------|------------------------|
+| **Ansvarsområde**   | **Samarbejdspartnere** |
+| Læs data fra sensor |                        |
+
+| Co2 Sensor              |                        |
+|-------------------------|------------------------|
+| **Ansvarsområde**       | **Samarbejdspartnere** |
+| Opbevarer måling af Co2 |                        |
+
+| Temperatur Sensor            |                        |
+|------------------------------|------------------------|
+| **Ansvarsområde**            | **Samarbejdspartnere** |
+| Opbevar måling af Temperatur |                        |
+
+| Aktuator               |                        |
+|------------------------|------------------------|
+| **Ansvarsområde**      | **Samarbejdspartnere** |
+| Hent data fra aktuator |                        |
+| Ændre aktuator værdi   |                        |
 
 ### UML Diagram
