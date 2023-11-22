@@ -20,18 +20,15 @@
 | F11     | Fjernelse af Aktuator    | Det skal være muligt at fjerne en given aktuator fra systemet, hvorved den fjernes fra den bygning som den er associeret med                                                                                                                                                                  |
 ### Noun/Verb Analyse
 
-| Verb      | Noun       |
-|-----------|------------|
-| Move      | rooms      |
-| Build     | player     |
-| Generate  | village    |
-| Repair    | town       |
-| Wear Down | city       |
-|           | road       |
-|           | railway    |
-|           | currency   |
-|           | durability |
-|           | ticks      |
+| Verb         | Noun              |
+|--------------|-------------------|
+| Repræsentere | bygning           |
+| Associeret   | sensorer          |
+| Oversigt     | aktuator          |
+| Læs          | system            |
+| Mål          | Co2 sensor        |
+| Tilføj       | Temperatur sensor |
+| Fjern        |                   |
 
 ### CRC Kort
 
@@ -73,4 +70,4 @@
 
 ### UML Diagram
 
-![Class Diagram](classDiagram.drawio.png)
+![Class Diagram](classDiagram.drawio1.png)
