@@ -72,3 +72,5 @@
 | Ændre aktuator værdi   |                        |
 
 ### UML Diagram
+
+![Class Diagram](classDiagram.drawio.png)
